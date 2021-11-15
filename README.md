@@ -1,6 +1,8 @@
-# Elements-of-Style-Reproducible-Workflow-Creation-Maintenance-Tutorial
+## Elements-of-Style-Reproducible-Workflow-Creation-Maintenance
 
-## Topics of Interest
+[2021 November 19 - ISCB Academy Sponsored - 3 hour Tutorial **Agenda**](https://github.com/ISCB-Academy/Elements-of-Style-Reproducible-Workflow-Creation-Maintenance-Tutorial/blob/main/Elements-of-Style-Reproducible-Tutorial-Agenda.md)
+
+## Background Information and other Topics of Interest
 |   |   |   | <p align="center"><img src="https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/assets/lifebitCloudOS.png"  width="250" align="right" ></p> |
 |---|---|---|---|
 |[Command Line Skills](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/1-using-the-command-line/1-using-the-command-line.ipynb)  | [Reading and Plotting Data in R](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/1-using-the-command-line/2-reading-data-and-plotting-in-R.ipynb) |  [Why Git and GitHub](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/2-intro-to-git-github/1-why-git-and-setup.md) | [Forking in GitHub](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/2-intro-to-git-github/2-the-fork-git-routine.ipynb)|
