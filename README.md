@@ -1,6 +1,30 @@
 ## Elements-of-Style-Reproducible-Workflow-Creation-Maintenance
 
-[2021 November 19 - ISCB Academy Sponsored - 3 hour Tutorial **Agenda**](https://github.com/ISCB-Academy/Elements-of-Style-Reproducible-Workflow-Creation-Maintenance-Tutorial/blob/main/Elements-of-Style-Reproducible-Tutorial-Agenda.md)
+<p>
+</p>
+<br/><br/>
+
+
+# Elements-of-Style-Reproducible-Workflow-Creation-Maintenance-Tutorial
+<br/><br/>
+<img src="https://github.com/ISCB-Academy/Elements-of-Style-Reproducible-Workflow-Creation-Maintenance-Tutorial/blob/main/assets/ISCBAcademyLogo.png"  width="100" align="right" >
+<br/><br/>
+## Agenda for the day:
+| Time (UTC)    | Programme       |
+| ------------- | --------------------------------------------------------------------------- |
+| 11.00 - 11.10 | *Welcome Address and Presentation of Tutorial Agenda* |
+| 11.10 - 11.20 | 1. [A few simple rules for easier workflow maintenance and reuse]()<img src="https://github.com/ISCB-Academy/Elements-of-Style-Reproducible-Workflow-Creation-Maintenance-Tutorial/blob/main/assets/The_Elements_of_Programming_Style.jpg" width="50" align="right">|
+| 11.20 - 11.30 | 2. [An overview of a short RNA-seq workflow]()|
+| 11.30 - 11.40 | 3. [Begin with environment setup - Conda]() <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Conda_logo.svg" width="50" align="right">|
+| 11:40 - 12.00 | 4. [Dockerfile for each process - Docker]() <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" width="50" align="right">|
+| 12:00 - 12:20 | 5. [GitHub Actions to build, test and deposit container images]() <img src="https://github.com/ISCB-Academy/Elements-of-Style-Reproducible-Workflow-Creation-Maintenance-Tutorial/blob/main/assets/Octocat.png" width="50" align="right"> |
+| 12.20 - 12.30 | 6. [Zenodo for DOIs and Genomic Summary and other Data]() <img src="https://github.com/ISCB-Academy/Elements-of-Style-Reproducible-Workflow-Creation-Maintenance-Tutorial/blob/main/assets/Zenodo_logo.jpg" width="50" align="right">|
+| 12.30 - 12.45 | :coffee:      *Short break - Stretch your legs! (15 minutes)*            :coffee:|
+| 12.45 - 13.00 | 7. [Stitching processes with a standard workflow - Nextflow]() <img src="https://github.com/nextflow-io/trademark/blob/master/nextflow2014_no-bg.png" width="50" align="right"> |
+| 13.00 - 13.20 | 8. [Stitching processes with another standard workflow - Common Workflow Language]() <img src="https://github.com/common-workflow-language/logo/blob/main/CWL-Logo-HD.png" width="50" align="right">|
+| 13.50 - 14.00 | *Closing remarks and future directions*|
+<br/><br/>
+
 
 ## Background Information and other Topics of Interest
 |   |   |   | <p align="center"><img src="https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/assets/lifebitCloudOS.png"  width="250" align="right" ></p> |
@@ -10,6 +34,11 @@
 |  [Conda for managing dependencies](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/3-intro-to-conda-docker/1-conda-for-managing-dependencies.ipynb) | [Docker Build Test Share Reuse](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/3-intro-to-conda-docker/2-build-test-share-reuse-docker.ipynb) | [Getting End-to-End Example Data](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/5-running-a-nextflow-analysis/Getting-todays-data.md) | [GitHub Hello World Fun](https://guides.github.com/activities/hello-world/)|
 | [SRA and RNAseq](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/tree/main/mini-courses/2_sra_and_rnaseq) |[Variant Calling Sarek](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/tree/main/mini-courses/1_variant_calling)  | [End-to-End Example](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/tree/main/classes/5-running-a-nextflow-analysis) | [Dry Bench Skills Recap](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/5-running-a-nextflow-analysis/Dry-Bench-Skills-Recap.md)|
 |[Using GitHub Actions]() | [Using Zenodo](https://github.com/sheynkman-lab/Long-Read-Proteogenomics/blob/main/AWStoZenodo.md) |[Long Read Proteogenomics](https://github.com/sheynkman-lab/Long-Read-Proteogenomics#readme) |[The Impact of Sex on Algernative Splicing (rMATS, Papermill, JupyterLab notebooks)](https://github.com/TheJacksonLaboratory/sbas#readme) |
+
+## Tutorials Given:
+
+[2021 November 19 - ISCB Academy Sponsored - 3 hour Tutorial **Agenda**](https://github.com/ISCB-Academy/Elements-of-Style-Reproducible-Workflow-Creation-Maintenance-Tutorial/blob/main/Elements-of-Style-Reproducible-Tutorial-Agenda.md)
+
 
 ## About
 
