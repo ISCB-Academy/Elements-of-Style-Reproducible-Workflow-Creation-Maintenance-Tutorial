@@ -1,5 +1,3 @@
-## Elements-of-Style-Reproducible-Workflow-Creation-Maintenance
-
 <p>
 </p>
 <br/><br/>
