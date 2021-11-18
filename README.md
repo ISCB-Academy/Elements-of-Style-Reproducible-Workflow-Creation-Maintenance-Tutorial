@@ -35,7 +35,7 @@
 
 ## Tutorials Given:
 
-[2021 November 19 - ISCB Academy Sponsored - 3 hour Tutorial **Agenda**](https://github.com/ISCB-Academy/Elements-of-Style-Reproducible-Workflow-Creation-Maintenance-Tutorial/blob/main/Elements-of-Style-Reproducible-Tutorial-Agenda.md)
+[2021 November 26 - ISCB Academy Sponsored - 3 hour Tutorial **Agenda**](https://github.com/ISCB-Academy/Elements-of-Style-Reproducible-Workflow-Creation-Maintenance-Tutorial/blob/main/Elements-of-Style-Reproducible-Tutorial-Agenda.md)
 
 
 ## About
