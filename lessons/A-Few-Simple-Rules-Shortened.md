@@ -24,27 +24,21 @@ So with this nod to E.B. White, William Strunk, Jr, Brian Kernigan and Plauger, 
 
 ### Lessons **`Translated to the Workflow/Containerized Process`** (Truncated Pithy Phrases)
 
-Where I have made modifications to these `Pithy Phrases` to the map to what we are teaching here *`will be in italicized and emphasized`*
 
-Its lessons are summarized at the end of each section in pithy maxims, such as "Let the machine do the dirty work":
+**Top 10 Lessons**
 
-**Shortened Lessons**
-
-|--------|--------|-------------|---------------------|
 | Number | Lesson | Relates Too | Full Lessons Number |
+| -------- | -------- | ------------- | --------------------- |
 | 1.     | Write clearly – don't be too clever.| Everything | [1.](https://github.com/ISCB-Academy/Elements-of-Style-Reproducible-Workflow-Creation-Maintenance-Tutorial/blob/main/lessons/A-Few-Simple-Rules.md) |
-| 2.     | Write first in easy-to-understand pseudo language; then translate into whatever language you have to use. | Everything | 13. |
-| 3.     | Modularize. Use procedures and functions. | Containerizing with Dockerfile | 14. |
-| 4.     | Write and test a big program in small pieces. | Containerizing with Dockerfile, GitHub Actions to test and deposit upon every change to Dockerfile| 17.|
-| 5.     | Test input for plausibility and validity. | GitHub Actions to test each step in a workflow allows input testing | 19.|
-| 6.     | Use debugging compilers. | Use platform as a service, pull straight from version in GitHub and our Compiler is the Use of Workflows | 29. |
-| 7.     | Make it right before you make it faster. | Everything | 29. |
-
-8. Make sure special cases are truly special. *`timeless`* **Full List Number 35.**
-
-9. Keep it simple to make it faster. *`timeless`* **Full List Number 36.**
-
-10. Document your data layouts. *`timeless`* **Full List Number 45.**
+| 2.     | Write first in easy-to-understand pseudo language; then translate into whatever language you have to use. | Everything | [13.](https://github.com/ISCB-Academy/Elements-of-Style-Reproducible-Workflow-Creation-Maintenance-Tutorial/blob/main/lessons/A-Few-Simple-Rules.md) |
+| 3.     | Modularize. Use procedures and functions. | Containerizing with Dockerfile | [14.](https://github.com/ISCB-Academy/Elements-of-Style-Reproducible-Workflow-Creation-Maintenance-Tutorial/blob/main/lessons/A-Few-Simple-Rules.md) |
+| 4.     | Write and test a big program in small pieces. | Containerizing with Dockerfile, GitHub Actions to test and deposit upon every change to Dockerfile| [17.](https://github.com/ISCB-Academy/Elements-of-Style-Reproducible-Workflow-Creation-Maintenance-Tutorial/blob/main/lessons/A-Few-Simple-Rules.md)|
+| 5.     | Test input for plausibility and validity. | GitHub Actions to test each step in a workflow allows input testing | [19.](https://github.com/ISCB-Academy/Elements-of-Style-Reproducible-Workflow-Creation-Maintenance-Tutorial/blob/main/lessons/A-Few-Simple-Rules.md)|
+| 6.     | Use debugging compilers. | Use platform as a service, pull straight from version in GitHub and our Compiler is the Use of Workflows | [29.](https://github.com/ISCB-Academy/Elements-of-Style-Reproducible-Workflow-Creation-Maintenance-Tutorial/blob/main/lessons/A-Few-Simple-Rules.md) |
+| 7.     | Make it right before you make it faster. | Everything | [30.](https://github.com/ISCB-Academy/Elements-of-Style-Reproducible-Workflow-Creation-Maintenance-Tutorial/blob/main/lessons/A-Few-Simple-Rules.md) |
+| 8.     | Make sure special cases are truly special.| Everythng | [35.](https://github.com/ISCB-Academy/Elements-of-Style-Reproducible-Workflow-Creation-Maintenance-Tutorial/blob/main/lessons/A-Few-Simple-Rules.md) |
+| 9.     | Keep it simple to make it faster.| Everything | [36.](https://github.com/ISCB-Academy/Elements-of-Style-Reproducible-Workflow-Creation-Maintenance-Tutorial/blob/main/lessons/A-Few-Simple-Rules.md) |
+| 10.    | Document your data layouts. | Everything | [45.](https://github.com/ISCB-Academy/Elements-of-Style-Reproducible-Workflow-Creation-Maintenance-Tutorial/blob/main/lessons/A-Few-Simple-Rules.md) |
 
 
 ## A Few Simple Rules - Full List
