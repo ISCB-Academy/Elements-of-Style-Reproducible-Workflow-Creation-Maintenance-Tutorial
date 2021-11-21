@@ -24,7 +24,7 @@ So with this nod to E.B. White, William Strunk, Jr, Brian Kernigan and Plauger, 
 
 ### Lessons **`Translated to the Workflow/Containerized Process`** (Truncated Pithy Phrases)
 
-Where I have made modifications to these `Pithy Phrases` to the map to what we are teaching here **`will be in italized and emphasized`**
+Where I have made modifications to these `Pithy Phrases` to the map to what we are teaching here **`will be in bolded and emphasized`**
 
 Its lessons are summarized at the end of each section in pithy maxims, such as "Let the machine do the dirty work":
 
