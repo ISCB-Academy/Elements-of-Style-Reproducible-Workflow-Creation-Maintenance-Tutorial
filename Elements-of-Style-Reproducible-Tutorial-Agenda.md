@@ -1,7 +1,7 @@
 <p>
 </p>
 <br/><br/>
-[![Adeslatt's GitHub stats](https://github-readme-stats.vercel.app/api?username=adeslatt)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=adeslatt)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # Elements-of-Style-Reproducible-Workflow-Creation-Maintenance-Tutorial
