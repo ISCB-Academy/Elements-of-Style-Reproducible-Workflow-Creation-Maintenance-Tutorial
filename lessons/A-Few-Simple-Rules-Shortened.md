@@ -30,16 +30,16 @@ Its lessons are summarized at the end of each section in pithy maxims, such as "
 
 **Shortened Lessons Learned**
 
-**1.** Write clearly – don't be too clever. *`timeless`* **Full List Number - 1.**
-**2.** Write first in easy-to-understand pseudo language; then translate into whatever language you have to use. *`timeless`* **Full List Number - 13.**
-**3.** Modularize. Use procedures and functions. *`and containerize - use GitHub Actions to build, test and keep up-to-date`* **Full List Number - 14.**
-**4.** Write and test a big program in small pieces. *`timeless this can be done by the use of these tested, dockerized processes`* **Full List Number - 17.**
-**5.** Test input for plausibility and validity. *`timeless - make sure you understand the source of your data`* **Full List Number - 19.**
-**6.** Use debugging compilers. *`timeless this is different with workflow languages - you can test each of the steps in the workflow verifying inputs, outputs and processes - dockerizing, testing `* **Full List Number 29.**
-**7.** Make it right before you make it faster. *`timeless for everything`* **Full List Number 29.**
-**8.** Make sure special cases are truly special. *`timeless`* **Full List Number 35.**
-**9.** Keep it simple to make it faster. *`timeless`* **Full List Number 36.**
-**10.** Document your data layouts. *`timeless`* **Full List Number 45.**
+1. Write clearly – don't be too clever. *`timeless`* **Full List Number - 1.**
+2. Write first in easy-to-understand pseudo language; then translate into whatever language you have to use. *`timeless`* **Full List Number - 13.**
+3. Modularize. Use procedures and functions. *`and containerize - use GitHub Actions to build, test and keep up-to-date`* **Full List Number - 14.**
+4. Write and test a big program in small pieces. *`timeless this can be done by the use of these tested, dockerized processes`* **Full List Number - 17.**
+5. Test input for plausibility and validity. *`timeless - make sure you understand the source of your data`* **Full List Number - 19.**
+6. Use debugging compilers. *`timeless this is different with workflow languages - you can test each of the steps in the workflow verifying inputs, outputs and processes - dockerizing, testing `* **Full List Number 29.**
+7. Make it right before you make it faster. *`timeless for everything`* **Full List Number 29.**
+8. Make sure special cases are truly special. *`timeless`* **Full List Number 35.**
+9. Keep it simple to make it faster. *`timeless`* **Full List Number 36.**
+10. Document your data layouts. *`timeless`* **Full List Number 45.**
 
 ## A Few Simple Rules - Full List
 
