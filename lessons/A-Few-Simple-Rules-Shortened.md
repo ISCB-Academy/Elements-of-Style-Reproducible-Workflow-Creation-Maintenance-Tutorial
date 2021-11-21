@@ -48,7 +48,7 @@ Its lessons are summarized at the end of each section in pithy maxims, such as "
 30. Make it fail-safe before you make it faster. **`timeless`**
 31. Make it clear before you make it faster. **`timeless`**
 32. Don't sacrifice clarity for small gains in efficiency. **`timeless`**
-33. Let your compiler do the simple optimizations. **`again, for our world of platforms, let your platform help you - Platforms as a Service, such as *CAVATICA* by Seven Bridges and *CloudOS* by Lifebit
+33. Let your compiler do the simple optimizations. **`again, for our world of platforms, let your platform help you - Platforms as a Service, such as CAVATICA by Seven Bridges, CloudOS by Lifebit, DNANexus Apollo by DNANexus`**. 
 34. Don't strain to re-use code; reorganize instead. **`timeless the more you perform a task, the simpler you see how to get it done, exploit that simplicity and rewrite`**
 35. Make sure special cases are truly special. **`timeless`**
 36. Keep it simple to make it faster. **`timeless`**
