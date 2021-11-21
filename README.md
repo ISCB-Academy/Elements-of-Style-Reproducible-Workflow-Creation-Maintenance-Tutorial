@@ -12,7 +12,7 @@
 | ------------- | --------------------------------------------------------------------------- |
 | 11.00 - 11.10 | *Welcome Address and Presentation of Tutorial Agenda* |
 | 11.10 - 11.20 | 1. [A few simple rules for easier workflow maintenance and reuse]()<img src="https://github.com/ISCB-Academy/Elements-of-Style-Reproducible-Workflow-Creation-Maintenance-Tutorial/blob/main/assets/The_Elements_of_Programming_Style.jpg" width="50" align="right">|
-| 11.20 - 11.30 | 2. [An overview of a short RNA-seq workflow]()|
+| 11.20 - 11.30 | 2. [An overview of a short RNA-seq workflow](https://github.com/ISCB-Academy/Elements-of-Style-Reproducible-Workflow-Creation-Maintenance-Tutorial/blob/c8dbd9ea6ac22c1fe0ee0087b66201177d793c00/lessons/A-Few-Simple-Rules-Shortened.md)|
 | 11.30 - 11.40 | 3. [Begin with environment setup - Conda]() <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Conda_logo.svg" width="50" align="right">|
 | 11:40 - 12.00 | 4. [Dockerfile for each process - Docker]() <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" width="50" align="right">|
 | 12:00 - 12:20 | 5. [GitHub Actions to build, test and deposit container images]() <img src="https://github.com/ISCB-Academy/Elements-of-Style-Reproducible-Workflow-Creation-Maintenance-Tutorial/blob/main/assets/Octocat.png" width="50" align="right"> |
