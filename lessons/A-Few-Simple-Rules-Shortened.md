@@ -22,6 +22,9 @@ The year was 1919, the first World War was at its close and a student, E. B. Whi
 
 So with this nod to E.B. White, William Strunk, Jr, Brian Kernigan and Plauger, we begin with our own Lessons and Pithy Phrases.
 
+**What is a Pithy Phrase:**
+A pithy phrase or statement is brief but full of substance and meaning
+
 ### Lessons **`Translated to the Workflow/Containerized Process`** (Truncated Pithy Phrases)
 
 
