@@ -1,8 +1,6 @@
 <p>
 </p>
 <br/><br/>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=adeslatt)](https://github.com/anuraghazra/github-readme-stats)
-
 
 # Elements-of-Style-Reproducible-Workflow-Creation-Maintenance-Tutorial
 <br/><br/>
