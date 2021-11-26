@@ -136,7 +136,7 @@ conda install -c bioconda nextflow
 
 We have all the pieces and we can now run.
 
-Move up a directory and let's begin and execute our nextflow workflow here is the command:
+Move up a directory and let's begin and execute our nextflow workflow here is the command (*`this will take about 10 minutes - so we will keep going and return to inspect the output - by default we are only running the Alevin alignment`*):
 
 ```bash
 nextflow run nf-core/scrnaseq --input "data/*_R{1,2}_001.fastq.gz" --transcript_fasta "data/gencode.v35.transcripts.fa" --gtf "data/gencode.v35.annotation.gtf" --fasta "data/GRCh38.primary_assembly.genome.fa" -profile docker
