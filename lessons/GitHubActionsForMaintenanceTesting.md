@@ -44,6 +44,7 @@ jobs:
           nextflow run ${GITHUB_WORKSPACE} --config conf/test_with_sqanti.config
 ```
 
+This vignette walks the user through the automatic testing workflow from [Long Read Proteogenomics](https://github.com/sheynkman-lab/Long-Read-Proteogenomics/wiki/Vignette-Long-Read-Proteogenomics-Workflow-with-Test-Data) - help the researcher in understanding the details of inputs, outputs and scripts that are very straightforward shell scripts helps one understand what is happening here, and better yet, how the researcher can do this with their own work. 
 There are a lot of details here, but one doesn't need to know much to get started with GitHub actions
 
 
