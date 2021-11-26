@@ -79,14 +79,14 @@ RUN conda env export --name nf-core-scrnaseq-1.1.0 > nf-core-scrnaseq-1.1.0.yml
 
 Note the name in the file `nf-core-scrnaseq-1.1.0` is the same as the name in the `environment.yml` file `name: nf-core-scrnaseq-1.1.0`.
 
-## Combining to build the docker image**🐳 Where your files go 
+## Combining to build the docker image 🐳 Where your files go 
 
 To build the docker container and create the docker image we will need the auxillary files to be in the same directory or a subdirectory of the root repo of the Dockerfile."It is typical that all files reside in the same directory. An also common practice is to create a helper folder named `bin` to hold all of the scripts and executables. To proceed withh the installation commands, make sure that your files in your directory look similar to this if you want to use the template without updating any paths:
 
 ```bash
 ├── Dockerfile
 ├── environment.yml
-``
+```
 
 
 ## Building smaller containers 
@@ -229,7 +229,7 @@ In a terminal window, make a directory for Alevin and change into that directory
 ```bash
 mkdir alevin-docker
 cd alevin-docker
-``
+```
 
 Make a README.md, a markdown file that will display at the root of your GitHub repository.
 
