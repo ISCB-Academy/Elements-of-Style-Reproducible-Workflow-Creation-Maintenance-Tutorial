@@ -61,6 +61,8 @@ Within GitHub, you have the ability to generate a personal token.  This token is
 
 ### Generating a GitHub Token
 
+<img src=https://github.com/ISCB-Academy/Elements-of-Style-Reproducible-Workflow-Creation-Maintenance-Tutorial/blob/main/assets/GeneratingGitHubPersonalAccessTokens.gif width="550" align="left">
+
 To authenticate from the command line, one way to do this is by using your GitHub personal access token.
 To generate your personal access token you
 * *`Navigate to your profile`*
@@ -68,7 +70,6 @@ To generate your personal access token you
 * *`Select Generate Personal Token`*
 * *`Choose how long it is good for 30, 60, 90 days or other custom`*
 
-Just as this gif shows you <img src=https://github.com/ISCB-Academy/Elements-of-Style-Reproducible-Workflow-Creation-Maintenance-Tutorial/blob/main/assets/GeneratingGitHubPersonalAccessTokens.gif width=100 align=right>
 
 ### Now we authenticate
 
