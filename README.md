@@ -18,7 +18,7 @@
 | 12:00 - 12:20 | 5. [GitHub Actions to build, test and deposit container images](https://github.com/ISCB-Academy/Elements-of-Style-Reproducible-Workflow-Creation-Maintenance-Tutorial/blob/main/lessons/GitHubActionsForMaintenanceTesting.md) <img src="https://github.com/ISCB-Academy/Elements-of-Style-Reproducible-Workflow-Creation-Maintenance-Tutorial/blob/main/assets/Octocat.png" width="50" align="right"> |
 | 12.20 - 12.30 | 6. [Zenodo for DOIs and Genomic Summary and other Data](https://github.com/sheynkman-lab/Long-Read-Proteogenomics/blob/main/AWStoZenodo.md) <img src="https://github.com/ISCB-Academy/Elements-of-Style-Reproducible-Workflow-Creation-Maintenance-Tutorial/blob/main/assets/Zenodo_logo.jpg" width="50" align="right">|
 | 12.30 - 12.45 | :coffee:      *Short break - Stretch your legs! (15 minutes)*            :coffee:|
-| 12.45 - 13.00 | 7. [Stitching processes with a standard workflow - Nextflow]() <img src="https://github.com/nextflow-io/trademark/blob/master/nextflow2014_no-bg.png" width="50" align="right"> |
+| 12.45 - 13.00 | 7. [Stitching processes with a standard workflow - Nextflow](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/4-intro-to-nextflow/nextflow.md) <img src="https://github.com/nextflow-io/trademark/blob/master/nextflow2014_no-bg.png" width="50" align="right"> |
 | 13.00 - 13.20 | 8. [Stitching processes with other workflow languages, such as Common Workflow Language]() <img src="https://github.com/common-workflow-language/logo/blob/main/CWL-Logo-HD.png" width="50" align="right">|
 | 13.50 - 14.00 | *Closing remarks and future directions*|
 <br/><br/>
