@@ -3,7 +3,7 @@
 <br/><br/>
 
 
-# A Few Simple Rules - Shortened Editions
+# A Few Simple Rules - Shortened Edition
 
 ## Disclaimer
 
